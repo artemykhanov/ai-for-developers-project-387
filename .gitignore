@@ -1,0 +1,12 @@
+node_modules/
+tsp-output/
+.idea/
+frontend/dist/
+frontend/.env
+frontend/tsconfig.tsbuildinfo
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+/.playwright-mcp/
